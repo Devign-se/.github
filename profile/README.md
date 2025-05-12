@@ -1,7 +1,13 @@
 # 👋 Välkommen till Devign
 
-Vi är ett litet team frontendutvecklare som bygger moderna webbupplevelser med fokus på enkelhet, prestanda och hållbar kod.
+Vi är ett team frontendutvecklare som bygger moderna, prestandafokuserade webbapplikationer – med teknik som vi gillar och tror på.
+
+🛠️ Vi jobbar bland annat med:
+- Astro
+- React
+- Angular
+- Netlify
+- Firebase
 
 📍 Baserade i Sverige  
-🛠️ Vi arbetar främst med Astro, Netlify och andra moderna verktyg  
-💬 Kontakta oss på hello@devign.se
+💬 Kontakta oss på: hello@devign.se
